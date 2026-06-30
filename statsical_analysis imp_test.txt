@@ -1,0 +1,6 @@
+1 categorical=z-test,t-test
+1 numerical=z-test,t-test
+1 numerc,1 categorical(less than 2 categories)=t-test,annova
+1 numerc,1 categorical(greater than 2 categories)=annova
+2 cat=chi-square
+2 nmeric=correlation test
